@@ -16,7 +16,7 @@ public class Array1 {
 		
 	}
 	static double[] getArrayData() {
-		double[] values= {10.7,20.6,3.0,40.2};
+		double[] values= {10.4,20.5,30.9,4.0};
 		return values;
 	}
 }

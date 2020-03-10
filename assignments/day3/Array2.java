@@ -16,7 +16,7 @@ long[] numbers= {10,20,30,40};
 		}
 	}
 	static long[] getArrayData() {
-		long[] values= {109,250,30,40};
+		long[] values= {10,20,30,40};
 		return values;
 	}
 

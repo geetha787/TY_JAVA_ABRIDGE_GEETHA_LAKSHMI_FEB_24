@@ -11,8 +11,8 @@ long[]d=new long[565];
 //double[]f=new double[5.7];
 char[]g=new char[5];
 boolean[]h=new boolean[5];
-int[]i=new int[-6];
-//int[]j=new int[null];
+//int[]i=new int[-6];//java.lang negative size array exception
+int[]j=new int[null];
 int[]k=new int[0];
 
 
