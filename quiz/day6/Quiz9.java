@@ -1,0 +1,10 @@
+package com.capgemini.quiz.day6;
+
+public class Quiz9 {
+	public static void main(String args[])  { 
+	       int x = -1;   
+	       System.out.println(x>>>29);   
+	       System.out.println(x>>>30);   
+	       System.out.println(x>>>31);   
+	   }    
+}
